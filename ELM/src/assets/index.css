@@ -1,0 +1,10 @@
+body,p{
+	margin: 0;
+	}
+a{
+	text-decoration: none;
+	color: white;
+}
+	.header-bg {
+		background: linear-gradient(to right, rgb(0, 170, 255), rgb(0, 133, 255));
+	}
